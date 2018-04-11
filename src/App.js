@@ -12,7 +12,7 @@ const styles = {
         flexWrap:'wrap',
         margin:'0 auto',
         width:'100%',
-        maxWidth:1200,
+        maxWidth:1199,
         boxSizing:'border-box',
         justifyContent:'space-between',
         '& > div': {
